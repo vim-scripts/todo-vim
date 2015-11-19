@@ -1,0 +1,19 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=5270
+
+todo-vim is plugin for manage your todo notes. He will help you to navigate and manage your todo labels in code. Plugin support next type of labels: todo, fixme, note. Label examples:
+
+TODO: Simple todo example
+TODO: todo with tag priority and custom tag @p :8 @custom :custom
+NOTE: Sinple note example with tag @tag
+
+FEATURES
+
+  - Display todo labels in separate navigation window
+  - Sort labels by type, line, priority.
+  - Quick jump to label
+  - Autojumping when choosing
+  - Tags support
+
+More info: https://github.com/Dimercel/todo-vim
+
+
